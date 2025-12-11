@@ -1,0 +1,4 @@
+[
+  "lab2/test_lab2.py::test_load_from_csv",
+  "lab2/test_lab2.py::test_save_to_csv"
+]
